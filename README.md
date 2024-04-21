@@ -13,11 +13,11 @@ This simple yet fun dice game webpage allows users to experience the thrill of d
 
 ## Crediting Resources Used
 
-In developing this project, I have utilized various resources, including images, icons, and other media assets. I believe in giving proper credit to the creators and sources of these resources. Below is a list of the resources used in this project along with their respective credits:
+I believe in giving proper credit to the owner of this resource. 
 
 **Google Fonts**: https://fonts.google.com/specimen/Press+Start+2P/about?query=press+start
 
-I express our sincere gratitude to the creators and platforms that provided these resources, enabling us to enhance the visual appeal and functionality of our project while adhering to proper attribution practices.
+I express our sincere gratitude to the creators and platforms that provides us resources, enabling us to enhance the visual appeal and functionality of our project while adhering to proper attribution practices.
 
 ### Development Tools
 
